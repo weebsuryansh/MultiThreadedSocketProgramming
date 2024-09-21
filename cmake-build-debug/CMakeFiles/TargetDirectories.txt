@@ -1,3 +1,0 @@
-/home/Suryansh/MyPrograms/C/CNSockets/cmake-build-debug/CMakeFiles/CNSockets.dir
-/home/Suryansh/MyPrograms/C/CNSockets/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/Suryansh/MyPrograms/C/CNSockets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

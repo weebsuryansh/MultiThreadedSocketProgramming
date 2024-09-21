@@ -3,5 +3,5 @@ project(CNSockets C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(CNSockets server.c
-        client.c)
+add_executable(Server server.c)
+add_executable(Client client.c)
